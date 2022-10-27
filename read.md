@@ -1,2 +1,3 @@
  Hello world!
- 
+
+It is a beautiful day today.
